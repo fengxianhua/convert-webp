@@ -1,0 +1,7 @@
+{
+  "name": "convert-webp",
+  "version": "0.0.1",
+  "description": "Webp converter",
+  "main": "index.js",
+  "author": "bin"
+}
